@@ -9,7 +9,7 @@ HTML_TEMPLATE = """
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>A.S Tech PC | ROG Style</title>
+<title>A.S Tech PC | Build Your Dream PC</title>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
 <style>
 /* GENERAL STYLES */
